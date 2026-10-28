@@ -13,13 +13,13 @@ Programming for Data Science 2026/2027, NOVA IMS, Group Project.
 
 ## Files
 
-| File | Content | Owner |
-|---|---|---|
-| `artist_streams.csv` | Original dataset | |
-| `A_wrangling.ipynb` | Cleaning and Q1–Q3 | Name 1 |
-| `B_analysis.ipynb` | Q4–Q5 | Name 2 |
-| `C_scraping.ipynb` | Wikipedia scraping | Name 3 |
-| `D_maps.ipynb` | Interactive maps | Name 4 |
+| File | Content |
+|---|---|
+| `artist_streams.csv` | Original dataset |
+| `A_wrangling.ipynb` | Cleaning and Q1–Q3 |
+| `B_analysis.ipynb` | Q4–Q5 |
+| `C_scraping.ipynb` | Wikipedia scraping | 
+| `D_maps.ipynb` | Interactive maps |
 
 ## How to run
 
