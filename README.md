@@ -16,6 +16,7 @@ Programming for Data Science 2026/2027, NOVA IMS, Group Project.
 | File | Content |
 |---|---|
 | `artist_streams.csv` | Original dataset |
+| `artist_streams_cleaned.csv` | Clean dataset |
 | `A_wrangling.ipynb` | Cleaning and Q1–Q3 |
 | `B_analysis.ipynb` | Q4–Q5 |
 | `C_scraping.ipynb` | Wikipedia scraping | 
