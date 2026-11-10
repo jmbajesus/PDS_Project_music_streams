@@ -9,7 +9,7 @@ Programming for Data Science 2026/2027, NOVA IMS, Group Project.
 | José Jesus | 20251389 |
 | Lara Barradas | 20251397 |
 | Lara Manso | 20251364 |
-| Zahra Ahmed | 20251382 |
+| Zahra Ahamed | 20251382 |
 
 ## Files
 
