@@ -1,0 +1,501 @@
+Artist Name,Birthplace,Latitude,Longitude,Wikipedia Page,Coordinates From,Match Quality,Scrape Status
+Drake,"Toronto, Ontario, Canada",43.6525,-79.38167,https://en.wikipedia.org/wiki/Drake_singer,"https://en.wikipedia.org/wiki/Toronto,_Ontario,_Canada",strong,ok
+Taylor Swift,"West Reading, Pennsylvania, US",40.33417,-75.94667,https://en.wikipedia.org/wiki/Taylor_Swift,"https://en.wikipedia.org/wiki/West_Reading,_Pennsylvania",strong,ok
+Bad Bunny,"Bayamón, Puerto Rico",18.38,-66.16333,https://en.wikipedia.org/wiki/Bad_Bunny,"https://en.wikipedia.org/wiki/Bayam%C3%B3n,_Puerto_Rico",strong,ok
+The Weeknd,"Metropolitan Toronto, Ontario, Canada",43.7072,-79.3805,https://en.wikipedia.org/wiki/The_Weeknd,https://en.wikipedia.org/wiki/Metropolitan_Toronto,strong,ok
+Justin Bieber,"London, Ontario, Canada",42.985,-81.24528,https://en.wikipedia.org/wiki/Justin_Bieber,"https://en.wikipedia.org/wiki/London,_Ontario,_Canada",strong,ok
+Ariana Grande,"Boca Raton, Florida, U.S.",26.37778,-80.11389,https://en.wikipedia.org/wiki/Ariana_Grande,"https://en.wikipedia.org/wiki/Boca_Raton,_Florida",strong,ok
+Travis Scott,"Houston, Texas, U.S.",29.75667,-95.36528,https://en.wikipedia.org/wiki/Travis_Scott,"https://en.wikipedia.org/wiki/Houston,_Texas,_U.S.",strong,ok
+Kanye West,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Kanye_West,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+Ed Sheeran,"Halifax, West Yorkshire, England",53.725,-1.863,https://en.wikipedia.org/wiki/Ed_Sheeran,"https://en.wikipedia.org/wiki/Halifax,_West_Yorkshire,_England",strong,ok
+Eminem,"St. Joseph, Missouri, U.S.",39.75806,-94.83667,https://en.wikipedia.org/wiki/Eminem,"https://en.wikipedia.org/wiki/St._Joseph,_Missouri",strong,ok
+Rihanna,"Saint Michael, Barbados",13.11806,-59.60306,https://en.wikipedia.org/wiki/Rihanna,"https://en.wikipedia.org/wiki/Saint_Michael,_Barbados",strong,ok
+Billie Eilish,"Los Angeles, California, US",34.05,-118.25,https://en.wikipedia.org/wiki/Billie_Eilish,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_US",strong,ok
+Bruno Mars,"Honolulu, Hawaii, U.S.",21.467,-157.967,https://en.wikipedia.org/wiki/Bruno_Mars,"https://en.wikipedia.org/wiki/Honolulu_County,_Hawaii",strong,ok
+Kendrick Lamar,"Compton, California, U.S.",33.89667,-118.225,https://en.wikipedia.org/wiki/Kendrick_Lamar,"https://en.wikipedia.org/wiki/Compton,_California",strong,ok
+Post Malone,"Syracuse, New York, U.S.",43.04694,-76.14444,https://en.wikipedia.org/wiki/Post_Malone,"https://en.wikipedia.org/wiki/Syracuse,_New_York",strong,ok
+J Balvin,"Medellín, Antioquia, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/J_Balvin,https://en.wikipedia.org/wiki/Medell%C3%ADn,strong,ok
+Future,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Future_(rapper),https://en.wikipedia.org/wiki/Atlanta,strong,ok
+BTS,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/BTS,"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+Ozuna,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Ozuna,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+Coldplay,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Coldplay,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Juice WRLD,"Chicago, Illinois, U.S.",41.88194,-87.62778,https://en.wikipedia.org/wiki/Juice_Wrld,"https://en.wikipedia.org/wiki/Chicago,_Illinois,_U.S.",strong,ok
+Chris Brown,"Tappahannock, Virginia, U.S.",37.92222,-76.86306,https://en.wikipedia.org/wiki/Chris_Brown,"https://en.wikipedia.org/wiki/Tappahannock,_Virginia",strong,ok
+Nicki Minaj,"Port of Spain, Trinidad and Tobago",10.667,-61.517,https://en.wikipedia.org/wiki/Nicki_Minaj,"https://en.wikipedia.org/wiki/Port_of_Spain,_Trinidad_and_Tobago",strong,ok
+Lana Del Rey,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Lana_Del_Rey,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+David Guetta,"Paris, France",48.8567,2.3522,https://en.wikipedia.org/wiki/David_Guetta,"https://en.wikipedia.org/wiki/Paris,_France",strong,ok
+Daddy Yankee,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Daddy_Yankee,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+Rauw Alejandro,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Rauw_Alejandro,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+Anuel AA,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Anuel_AA,"https://en.wikipedia.org/wiki/Carolina,_Puerto_Rico",strong,ok
+XXXTENTACION,"Plantation, Florida, U.S.",26.12444,-80.24944,https://en.wikipedia.org/wiki/XXXTentacion,"https://en.wikipedia.org/wiki/Plantation,_Florida",strong,ok
+Imagine Dragons,"Las Vegas, Nevada, U.S.",36.09944,-115.17,https://en.wikipedia.org/wiki/Imagine_Dragons,https://en.wikipedia.org/wiki/New_Las_Vegas_Stadium,strong,ok
+Lil Wayne,"New Orleans, Louisiana, U.S.",29.9761,-90.0783,https://en.wikipedia.org/wiki/Lil_Wayne,https://en.wikipedia.org/wiki/New_Orleans,strong,ok
+21 Savage,"Plaistow, London, England",51.5243,0.0245,https://en.wikipedia.org/wiki/21_Savage,"https://en.wikipedia.org/wiki/Plaistow,_London,_England",strong,ok
+SZA,"St. Louis, Missouri, US",38.7102,-90.311055,https://en.wikipedia.org/wiki/SZA_singer,https://en.wikipedia.org/wiki/University_of_Missouri%E2%80%93St._Louis,strong,ok
+Arijit Singh,"Jiaganj, West Bengal, India",24.23,88.27,https://en.wikipedia.org/wiki/Arijit_Singh,https://en.wikipedia.org/wiki/Jiaganj_Azimganj,strong,ok
+Lady Gaga,"New York City, US",40.7128,-74.0061,https://en.wikipedia.org/wiki/Lady_Gaga,"https://en.wikipedia.org/wiki/New_York_City,_US",strong,ok
+KAROL G,"Medellín, Antioquia, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Karol_G,https://en.wikipedia.org/wiki/Medell%C3%ADn,strong,ok
+Lil Baby,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Lil_Baby,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+Maroon 5,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Maroon_5,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Khalid,"Fort Stewart, Georgia, U.S.",31.88,-81.6075,https://en.wikipedia.org/wiki/Khalid_(singer),https://en.wikipedia.org/wiki/Fort_Stewart,strong,ok
+Beyoncé,"Houston, Texas, US",29.75667,-95.36528,https://en.wikipedia.org/wiki/Beyonc%C3%A9,https://en.wikipedia.org/wiki/Houston,strong,ok
+Maluma,"Medellín, Antioquia, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Maluma,https://en.wikipedia.org/wiki/Medell%C3%ADn,strong,ok
+Feid,"Medellín, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Feid,"https://en.wikipedia.org/wiki/Medell%C3%ADn,_Colombia",strong,ok
+Calvin Harris,"Dumfries, Scotland",55.07,-3.603,https://en.wikipedia.org/wiki/Calvin_Harris,"https://en.wikipedia.org/wiki/Dumfries,_Scotland",strong,ok
+Myke Towers,"Río Piedras, Puerto Rico",18.39556,-66.04583,https://en.wikipedia.org/wiki/Myke_Towers,"https://en.wikipedia.org/wiki/R%C3%ADo_Piedras,_Puerto_Rico",strong,ok
+Linkin Park,"Agoura Hills, California, U.S.",34.15333,-118.76167,https://en.wikipedia.org/wiki/Linkin_Park,"https://en.wikipedia.org/wiki/Agoura_Hills,_California",strong,ok
+Peso Pluma,"Zapopan, Jalisco, Mexico",20.717,-103.4,https://en.wikipedia.org/wiki/Peso_Pluma,"https://en.wikipedia.org/wiki/Zapopan,_Jalisco,_Mexico",strong,ok
+J. Cole,"Frankfurt, West Germany",52.341944,14.551667,https://en.wikipedia.org/wiki/J._Cole,https://en.wikipedia.org/wiki/Frankfurt_(Oder),strong,ok
+Lil Uzi Vert,"Philadelphia, Pennsylvania, US",39.9528,-75.1636,https://en.wikipedia.org/wiki/Lil_Uzi_Vert,"https://en.wikipedia.org/wiki/Philadelphia,_Pennsylvania,_US",strong,ok
+Sia,"Adelaide, South Australia",-34.9275,138.6,https://en.wikipedia.org/wiki/Sia,"https://en.wikipedia.org/wiki/Adelaide,_South_Australia",strong,ok
+Doja Cat,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Doja_Cat,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Shakira,"Barranquilla, Atlántico, Colombia",10.98333,-74.80194,https://en.wikipedia.org/wiki/Shakira,"https://en.wikipedia.org/wiki/Barranquilla,_Atl%C3%A1ntico,_Colombia",strong,ok
+Morgan Wallen,"Sneedville, Tennessee, U.S.",36.53194,-83.21417,https://en.wikipedia.org/wiki/Morgan_Wallen,"https://en.wikipedia.org/wiki/Sneedville,_Tennessee",strong,ok
+Young Thug,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Young_Thug,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+Farruko,"Bayamón, Puerto Rico",18.38,-66.16333,https://en.wikipedia.org/wiki/Farruko,"https://en.wikipedia.org/wiki/Bayam%C3%B3n,_Puerto_Rico",strong,ok
+Shawn Mendes,"Toronto, Ontario, Canada",43.6525,-79.38167,https://en.wikipedia.org/wiki/Shawn_Mendes,"https://en.wikipedia.org/wiki/Toronto,_Ontario,_Canada",strong,ok
+Queen,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Queen_band,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Sam Smith,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Sam_Smith_Singer,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+One Direction,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/One_Direction,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Metro Boomin,"St. Louis, Missouri, U.S.",38.7102,-90.311055,https://en.wikipedia.org/wiki/Metro_Boomin,https://en.wikipedia.org/wiki/University_of_Missouri%E2%80%93St._Louis,strong,ok
+Olivia Rodrigo,"Murrieta, California, U.S.",33.56944,-117.2025,https://en.wikipedia.org/wiki/Olivia_Rodrigo,"https://en.wikipedia.org/wiki/Murrieta,_California",strong,ok
+Adele,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Adele_singer,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Katy Perry,"Santa Barbara, California, U.S.",34.54,-120.03,https://en.wikipedia.org/wiki/Katy_Perry,"https://en.wikipedia.org/wiki/Santa_Barbara_County,_California",strong,ok
+Gunna,"College Park, Georgia, U.S.",33.6175,-84.4675,https://en.wikipedia.org/wiki/Gunna_(rapper),"https://en.wikipedia.org/wiki/College_Park,_Georgia",strong,ok
+Arctic Monkeys,"Sheffield, England",53.38083,-1.47028,https://en.wikipedia.org/wiki/Arctic_Monkeys,"https://en.wikipedia.org/wiki/Sheffield,_England",strong,ok
+Fuerza Regida,"San Bernardino, California, U.S.",34.1831,-117.324,https://en.wikipedia.org/wiki/Fuerza_Regida,"https://en.wikipedia.org/wiki/California_State_University,_San_Bernardino",strong,ok
+"Tyler, The Creator","Hawthorne, California, U.S.",33.91722,-118.34861,"https://en.wikipedia.org/wiki/Tyler,_the_Creator","https://en.wikipedia.org/wiki/Hawthorne,_California",strong,ok
+Selena Gomez,"Grand Prairie, Texas, US",32.71528,-96.96611,https://en.wikipedia.org/wiki/Selena_Gomez,"https://en.wikipedia.org/wiki/Grand_Prairie,_Texas",strong,ok
+The Beatles,"Liverpool, England",53.4072,-2.9917,https://en.wikipedia.org/wiki/The_Beatles_band,"https://en.wikipedia.org/wiki/Liverpool,_England",strong,ok
+Pitbull,"Miami, Florida, U.S.",25.61058,-80.497099,https://en.wikipedia.org/wiki/Pitbull_(rapper),"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",strong,ok
+Nicky Jam,"Lawrence, Massachusetts, U.S.",42.70694,-71.16361,https://en.wikipedia.org/wiki/Nicky_Jam,"https://en.wikipedia.org/wiki/Lawrence,_Massachusetts",strong,ok
+Playboi Carti,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Playboi_Carti,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+Halsey,"Edison, New Jersey, US",40.5274,-74.3933,https://en.wikipedia.org/wiki/Halsey_(singer),"https://en.wikipedia.org/wiki/Edison,_New_Jersey",strong,ok
+Wiz Khalifa,"Minot, North Dakota, U.S.",48.2376139,-101.2790056,https://en.wikipedia.org/wiki/Wiz_Khalifa,"https://en.wikipedia.org/wiki/Minot,_North_Dakota",strong,ok
+Michael Jackson,"Gary, Indiana, US",41.59056,-87.34694,https://en.wikipedia.org/wiki/Michael_jackson_singer,"https://en.wikipedia.org/wiki/Gary,_Indiana",strong,ok
+Sabrina Carpenter,"Quakertown, Pennsylvania, US",40.44056,-75.34056,https://en.wikipedia.org/wiki/Sabrina_Carpenter,"https://en.wikipedia.org/wiki/Quakertown,_Pennsylvania",strong,ok
+Frank Ocean,"Long Beach, California, U.S.",33.76833,-118.19556,https://en.wikipedia.org/wiki/Frank_Ocean,"https://en.wikipedia.org/wiki/Long_Beach,_California",strong,ok
+JAŸ-Z,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Jay-Z,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Miley Cyrus,"Franklin, Tennessee, U.S.",35.92917,-86.8575,https://en.wikipedia.org/wiki/Miley_Cyrus,"https://en.wikipedia.org/wiki/Franklin,_Tennessee",strong,ok
+The Chainsmokers,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/The_Chainsmokers,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Marshmello,"Philadelphia, Pennsylvania, U.S.",39.9528,-75.1636,https://en.wikipedia.org/wiki/Marshmello,"https://en.wikipedia.org/wiki/Philadelphia,_Pennsylvania,_U.S.",strong,ok
+Cardi B,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Cardi_B,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Twenty One Pilots,"Columbus, Ohio, U.S.",39.96222,-83.00056,https://en.wikipedia.org/wiki/Twenty_One_Pilots,"https://en.wikipedia.org/wiki/Columbus,_Ohio",strong,ok
+Arcángel,"New York City, New York, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Arc%C3%A1ngel,"https://en.wikipedia.org/wiki/New_York_City,_New_York,_U.S.",strong,ok
+Red Hot Chili Peppers,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Camila Cabello,"Cojímar, Habana del Este, Cuba",23.135,-82.394,https://en.wikipedia.org/wiki/Camila_cabello_singer,https://en.wikipedia.org/wiki/Coj%C3%ADmar,strong,ok
+OneRepublic,"Colorado Springs, Colorado, U.S.",38.85778,-104.60583,https://en.wikipedia.org/wiki/OneRepublic,"https://en.wikipedia.org/wiki/Colorado_Springs,_Colorado",strong,ok
+Avicii,"Stockholm, Sweden",59.32944,18.06861,https://en.wikipedia.org/wiki/Avicii,"https://en.wikipedia.org/wiki/Stockholm,_Sweden",strong,ok
+Diplo,"Tupelo, Mississippi, U.S.",34.25972,-88.72583,https://en.wikipedia.org/wiki/Diplo,"https://en.wikipedia.org/wiki/Tupelo,_Mississippi",strong,ok
+Snoop Dogg,"Long Beach, California, U.S.",33.76833,-118.19556,https://en.wikipedia.org/wiki/Snoop_Dogg,"https://en.wikipedia.org/wiki/Long_Beach,_California",strong,ok
+Romeo Santos,"New York City, New York, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Romeo_Santos,"https://en.wikipedia.org/wiki/New_York_City,_New_York,_U.S.",strong,ok
+50 Cent,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/50_Cent,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Natanael Cano,"Hermosillo, Sonora, Mexico",29.09889,-110.95417,https://en.wikipedia.org/wiki/Natanael_Cano,https://en.wikipedia.org/wiki/Hermosillo,strong,ok
+YoungBoy Never Broke Again,"Baton Rouge, Louisiana, U.S.",30.4475,-91.17861,https://en.wikipedia.org/wiki/YoungBoy_Never_Broke_Again,"https://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana",strong,ok
+Mac Miller,"Pittsburgh, Pennsylvania, U.S.",40.43972,-79.97639,https://en.wikipedia.org/wiki/Mac_Miller,"https://en.wikipedia.org/wiki/Pittsburgh,_Pennsylvania,_U.S.",strong,ok
+DaBaby,"Cleveland, Ohio, U.S.",41.4992,-81.6947,https://en.wikipedia.org/wiki/DaBaby,"https://en.wikipedia.org/wiki/Cleveland,_Ohio,_U.S.",strong,ok
+Don Toliver,"Houston, Texas, U.S.",29.75667,-95.36528,https://en.wikipedia.org/wiki/Don_Toliver,"https://en.wikipedia.org/wiki/Houston,_Texas,_U.S.",strong,ok
+Zach Bryan,"Yokosuka, Japan",35.2815,139.672083,https://en.wikipedia.org/wiki/Zach_Bryan,"https://en.wikipedia.org/wiki/Yokosuka,_Japan",strong,ok
+Kygo,Singapore,1.283,103.833,https://en.wikipedia.org/wiki/Kygo,https://en.wikipedia.org/wiki/Singapore,strong,ok
+Sech,"Río Abajo, Panama",9.01944,-79.50139,https://en.wikipedia.org/wiki/Sech_(singer),"https://en.wikipedia.org/wiki/R%C3%ADo_Abajo,_Panama",strong,ok
+The Neighbourhood,"Newbury Park, California, U.S.",34.18417,-118.90972,https://en.wikipedia.org/wiki/The_Neighbourhood,"https://en.wikipedia.org/wiki/Newbury_Park,_California",strong,ok
+Quavo,"Athens, Georgia, U.S.",33.95,-83.383,https://en.wikipedia.org/wiki/Quavo,"https://en.wikipedia.org/wiki/Athens,_Georgia",strong,ok
+Luke Combs,"Huntersville, North Carolina, U.S.",35.40611,-80.87167,https://en.wikipedia.org/wiki/Luke_Combs,"https://en.wikipedia.org/wiki/Huntersville,_North_Carolina",strong,ok
+Manuel Turizo,"Montería, Córdoba, Colombia",8.75,-75.883,https://en.wikipedia.org/wiki/Manuel_Turizo,https://en.wikipedia.org/wiki/C%C3%B3rdoba_Department,strong,ok
+Trippie Redd,"Canton, Ohio, U.S.",40.79861,-81.375,https://en.wikipedia.org/wiki/Trippie_Redd,"https://en.wikipedia.org/wiki/Canton,_Ohio",strong,ok
+Tate McRae,"Calgary, Alberta, Canada",51.0475,-114.0625,https://en.wikipedia.org/wiki/Tate_McRae,"https://en.wikipedia.org/wiki/Calgary,_Alberta,_Canada",strong,ok
+Metallica,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Metallica,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Don Omar,"Santurce, Puerto Rico",18.44667,-66.06889,https://en.wikipedia.org/wiki/Don_Omar,"https://en.wikipedia.org/wiki/Santurce,_Puerto_Rico",strong,ok
+USHER,"Dallas, Texas, U.S.",32.77917,-96.80889,https://en.wikipedia.org/wiki/Usher_(musician),"https://en.wikipedia.org/wiki/Dallas,_Texas,_U.S.",strong,ok
+Charlie Puth,"Rumson, New Jersey, U.S.",40.37194,-73.99944,https://en.wikipedia.org/wiki/Charlie_Puth,"https://en.wikipedia.org/wiki/Rumson,_New_Jersey",strong,ok
+Justin Timberlake,"Memphis, Tennessee, U.S.",35.117,-89.971,https://en.wikipedia.org/wiki/Justin_Timberlake,"https://en.wikipedia.org/wiki/Timeline_of_Memphis,_Tennessee",strong,ok
+Tiësto,"Breda, North Brabant, Netherlands",51.667,5.0,https://en.wikipedia.org/wiki/Ti%C3%ABsto,https://en.wikipedia.org/wiki/North_Brabant,strong,ok
+Sean Paul,"Kingston, Jamaica",17.97139,-76.79306,https://en.wikipedia.org/wiki/Sean_Paul,"https://en.wikipedia.org/wiki/Kingston,_Jamaica",strong,ok
+Tyga,"Compton, California, U.S.",33.89667,-118.225,https://en.wikipedia.org/wiki/Tyga,"https://en.wikipedia.org/wiki/Compton,_California",strong,ok
+Kali Uchis,"Alexandria, Virginia, U.S.",38.880278,-77.108333,https://en.wikipedia.org/wiki/Kali_Uchis,"https://en.wikipedia.org/wiki/Arlington_County,_Virginia",strong,ok
+Kodak Black,"Pompano Beach, Florida, U.S.",26.23472,-80.12556,https://en.wikipedia.org/wiki/Kodak_Black,"https://en.wikipedia.org/wiki/Pompano_Beach,_Florida",strong,ok
+Jason Derulo,"Miramar, Florida, U.S.",25.97667,-80.32306,https://en.wikipedia.org/wiki/Jason_Derulo,"https://en.wikipedia.org/wiki/Miramar,_Florida",strong,ok
+BLACKPINK,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/Blackpink,"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+JHAYCO,"Río Piedras, San Juan, Puerto Rico",18.39556,-66.04583,https://en.wikipedia.org/wiki/Jhayco,"https://en.wikipedia.org/wiki/R%C3%ADo_Piedras,_San_Juan,_Puerto_Rico",strong,ok
+Bebe Rexha,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Bebe_Rexha,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Daft Punk,"Paris, France",48.8567,2.3522,https://en.wikipedia.org/wiki/Daft_Punk,"https://en.wikipedia.org/wiki/Paris,_France",strong,ok
+Luis Miguel,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Luis_Miguel,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+Demi Lovato,"Albuquerque, New Mexico, U.S.",35.08444,-106.65167,https://en.wikipedia.org/wiki/Demi_Lovato,"https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico",strong,ok
+Akon,"St. Louis, Missouri, U.S.",38.7102,-90.311055,https://en.wikipedia.org/wiki/Akon,https://en.wikipedia.org/wiki/University_of_Missouri%E2%80%93St._Louis,strong,ok
+AC/DC,"Sydney, New South Wales, Australia",-33.86778,151.21,https://en.wikipedia.org/wiki/Ac/dc_band,"https://en.wikipedia.org/wiki/Sydney,_New_South_Wales,_Australia",strong,ok
+Sebastian Yatra,"Medellín, Antioquia, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Yatra,https://en.wikipedia.org/wiki/Medell%C3%ADn,strong,ok
+Carín León,"Hermosillo, Sonora, Mexico",29.09889,-110.95417,https://en.wikipedia.org/wiki/Car%C3%ADn_Le%C3%B3n,https://en.wikipedia.org/wiki/Hermosillo,strong,ok
+Alan Walker,"Northampton, England",52.2303748,-0.8937527,https://en.wikipedia.org/wiki/Alan_Walker,"https://en.wikipedia.org/wiki/Northampton,_England",strong,ok
+A Boogie Wit da Hoodie,"The Bronx, New York City, U.S.",40.848,-73.786,https://en.wikipedia.org/wiki/A_Boogie_wit_da_Hoodie,"https://en.wikipedia.org/wiki/City_Island,_Bronx",strong,ok
+Hozier,"Newcastle, County Wicklow, Ireland",53.0692,-6.0621,https://en.wikipedia.org/wiki/Hozier,"https://en.wikipedia.org/wiki/Newcastle,_County_Wicklow",strong,ok
+Ellie Goulding,"Hereford, England",52.056,-2.716,https://en.wikipedia.org/wiki/Ellie_Goulding,"https://en.wikipedia.org/wiki/Hereford,_England",strong,ok
+Radiohead,"Abingdon, Oxfordshire, England",51.67167,-1.27833,https://en.wikipedia.org/wiki/Radiohead,https://en.wikipedia.org/wiki/Abingdon-on-Thames,strong,ok
+Big Sean,"Santa Monica, California, U.S.",34.00861,-118.49861,https://en.wikipedia.org/wiki/Big_Sean,https://en.wikipedia.org/wiki/Santa_Monica_Pier,strong,ok
+Flo Rida,"Miami Gardens, Florida, U.S.",25.94194,-80.25639,https://en.wikipedia.org/wiki/Flo_Rida,"https://en.wikipedia.org/wiki/Miami_Gardens,_Florida",strong,ok
+Nirvana,"Aberdeen, Washington, U.S.",46.95861,-123.81056,https://en.wikipedia.org/wiki/Nirvana_band,"https://en.wikipedia.org/wiki/Aberdeen,_Washington",strong,ok
+Pop Smoke,"Brooklyn, New York City, U.S.",40.65,-73.95,https://en.wikipedia.org/wiki/Pop_Smoke,https://en.wikipedia.org/wiki/Brooklyn,strong,ok
+Britney Spears,"McComb, Mississippi, U.S.",31.2444722,-90.4715917,https://en.wikipedia.org/wiki/Britney_Spears,"https://en.wikipedia.org/wiki/McComb,_Mississippi",strong,ok
+James Arthur,"Middlesbrough, North Yorkshire, England",54.57611,-1.23472,https://en.wikipedia.org/wiki/James_Arthur,https://en.wikipedia.org/wiki/Middlesbrough,strong,ok
+Tory Lanez,"Brampton, Ontario, Canada",43.68833,-79.76083,https://en.wikipedia.org/wiki/Tory_Lanez,"https://en.wikipedia.org/wiki/Brampton,_Ontario,_Canada",strong,ok
+Pharrell Williams,"Virginia Beach, Virginia, U.S.",36.85,-75.97778,https://en.wikipedia.org/wiki/Pharrell_Williams,"https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia",strong,ok
+DJ Snake,"Paris, France",48.8567,2.3522,https://en.wikipedia.org/wiki/DJ_Snake,"https://en.wikipedia.org/wiki/Paris,_France",strong,ok
+Daniel Caesar,"Scarborough, Ontario, Canada",43.75583,-79.23083,https://en.wikipedia.org/wiki/Daniel_Caesar,"https://en.wikipedia.org/wiki/Scarborough,_Ontario,_Canada",strong,ok
+Black Eyed Peas,"Los Angeles, California",34.05,-118.25,https://en.wikipedia.org/wiki/Black_Eyed_Peas,"https://en.wikipedia.org/wiki/Los_Angeles,_California",strong,ok
+Shreya Ghoshal,"Berhampore, West Bengal, India",24.1,88.25,https://en.wikipedia.org/wiki/Shreya_Ghoshal,https://en.wikipedia.org/wiki/Berhampore,strong,ok
+Bizarrap,"Ramos Mejía, Argentina",-34.65,-58.567,https://en.wikipedia.org/wiki/Bizarrap,https://en.wikipedia.org/wiki/Ramos_Mej%C3%ADa,strong,ok
+Migos,"Lawrenceville, Georgia, U.S.",33.95222,-83.99333,https://en.wikipedia.org/wiki/Migos,"https://en.wikipedia.org/wiki/Lawrenceville,_Georgia",strong,ok
+The Kid LAROI,"Sydney, New South Wales, Australia",-33.86778,151.21,https://en.wikipedia.org/wiki/The_Kid_Laroi,"https://en.wikipedia.org/wiki/Sydney,_New_South_Wales,_Australia",strong,ok
+Marília Mendonça,"Cristianópolis, Goiás, Brazil",-17.19889,-48.69806,https://en.wikipedia.org/wiki/Mar%C3%ADlia_Mendon%C3%A7a,https://en.wikipedia.org/wiki/Cristian%C3%B3polis,strong,ok
+Anitta,"Rio de Janeiro, Brazil",-22.91111,-43.20556,https://en.wikipedia.org/wiki/Anitta_(singer),"https://en.wikipedia.org/wiki/Rio_de_Janeiro,_Brazil",strong,ok
+Green Day,"Rodeo, California, U.S.",38.03306,-122.26694,https://en.wikipedia.org/wiki/Green_Day,"https://en.wikipedia.org/wiki/Rodeo,_California",strong,ok
+Lil Durk,"Chicago, Illinois, U.S.",41.88194,-87.62778,https://en.wikipedia.org/wiki/Lil_Durk,"https://en.wikipedia.org/wiki/Chicago,_Illinois,_U.S.",strong,ok
+Polo G,"Chicago, Illinois, U.S.",41.88194,-87.62778,https://en.wikipedia.org/wiki/Polo_G,"https://en.wikipedia.org/wiki/Chicago,_Illinois,_U.S.",strong,ok
+A.R. Rahman,"Madras, Madras State, India",44.63056,-121.12917,https://en.wikipedia.org/wiki/A._R._Rahman,"https://en.wikipedia.org/wiki/Madras,_Oregon",strong,ok
+G-Eazy,"Oakland, California, US",37.779722,-122.220278,https://en.wikipedia.org/wiki/G-Eazy,"https://en.wikipedia.org/wiki/East_Oakland,_Oakland,_California",strong,ok
+Kid Cudi,"Cleveland, Ohio, U.S.",41.4992,-81.6947,https://en.wikipedia.org/wiki/Kid_Cudi,"https://en.wikipedia.org/wiki/Cleveland,_Ohio,_U.S.",strong,ok
+Justin Quiles,"Bridgeport, Connecticut, U.S.",41.1648,-73.1907,https://en.wikipedia.org/wiki/Justin_Quiles,https://en.wikipedia.org/wiki/University_of_Bridgeport,strong,ok
+Stray Kids,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/Stray_Kids,"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+Ne-Yo,"Camden, Arkansas, U.S.",33.58444,-92.83417,https://en.wikipedia.org/wiki/Ne-Yo,"https://en.wikipedia.org/wiki/Camden,_Arkansas",strong,ok
+Gucci Mane,"Bessemer, Alabama, US",33.37111,-86.97278,https://en.wikipedia.org/wiki/Gucci_Mane,"https://en.wikipedia.org/wiki/Bessemer,_Alabama",strong,ok
+ROSALÍA,"Sant Cugat del Vallès, Catalonia, Spain",41.467,2.083,https://en.wikipedia.org/wiki/Rosal%C3%ADa,https://en.wikipedia.org/wiki/Sant_Cugat_del_Vall%C3%A8s,strong,ok
+Charli xcx,"Cambridge, England",52.205,0.1225,https://en.wikipedia.org/wiki/Charli_xcx,"https://en.wikipedia.org/wiki/Cambridge,_England",strong,ok
+Joji,"Osaka, Japan",34.69389,135.50222,https://en.wikipedia.org/wiki/Joji_(musician),"https://en.wikipedia.org/wiki/Osaka,_Japan",strong,ok
+Fall Out Boy,"Wilmette, Illinois, U.S.",42.07722,-87.72361,https://en.wikipedia.org/wiki/Fall_Out_Boy,"https://en.wikipedia.org/wiki/Wilmette,_Illinois",strong,ok
+PARTYNEXTDOOR,"Mississauga, Ontario, Canada",43.6,-79.65,https://en.wikipedia.org/wiki/PartyNextDoor,"https://en.wikipedia.org/wiki/Mississauga,_Ontario,_Canada",strong,ok
+Jorge & Mateus,"Itumbiara, Goiás, Brazil",-18.41667,-49.21667,https://en.wikipedia.org/wiki/Jorge_%26_Mateus,https://en.wikipedia.org/wiki/Itumbiara,strong,ok
+Offset,"Lawrenceville, Georgia, U.S.",33.95222,-83.99333,https://en.wikipedia.org/wiki/Offset_(rapper),"https://en.wikipedia.org/wiki/Lawrenceville,_Georgia",strong,ok
+Panic! At The Disco,"Las Vegas, Nevada, U.S.",36.09944,-115.17,https://en.wikipedia.org/wiki/Panic!_at_the_Disco,https://en.wikipedia.org/wiki/New_Las_Vegas_Stadium,strong,ok
+Tame Impala,"Perth, Western Australia, Australia",-32.0,115.9,https://en.wikipedia.org/wiki/Tame_Impala,"https://en.wikipedia.org/wiki/Perth,_Western_Australia,_Australia",strong,ok
+Quevedo,"Madrid, Spain",40.4169,-3.7033,https://en.wikipedia.org/wiki/Quevedo_(singer),"https://en.wikipedia.org/wiki/Madrid,_Spain",strong,ok
+Morat,"Bogotá, Colombia",4.71111,-74.07222,https://en.wikipedia.org/wiki/Morat_(band),"https://en.wikipedia.org/wiki/Bogot%C3%A1,_Colombia",strong,ok
+Zara Larsson,"Solna, Stockholm County, Sweden",59.35,18.0,https://en.wikipedia.org/wiki/Zara_Larsson,https://en.wikipedia.org/wiki/Solna,strong,ok
+Tito Double P,"Tepic, Nayarit, Mexico",21.50833,-104.89306,https://en.wikipedia.org/wiki/Tito_Double_P,"https://en.wikipedia.org/wiki/Tepic,_Nayarit,_Mexico",strong,ok
+Jul,"Marseille, France",43.2964,5.37,https://en.wikipedia.org/wiki/Jul_(rapper),"https://en.wikipedia.org/wiki/Marseille,_France",strong,ok
+Gorillaz,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Gorillaz,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Lewis Capaldi,"Glasgow, Scotland",55.86111,-4.25,https://en.wikipedia.org/wiki/Lewis_Capaldi,"https://en.wikipedia.org/wiki/Glasgow,_Scotland",strong,ok
+Grupo Frontera,"Edinburg, Texas, U.S.",26.30417,-98.16389,https://en.wikipedia.org/wiki/Grupo_Frontera,"https://en.wikipedia.org/wiki/Edinburg,_Texas",strong,ok
+Camilo,"Medellín, Antioquia, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Camilo_(singer),https://en.wikipedia.org/wiki/Medell%C3%ADn,strong,ok
+Lenny Tavárez,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Lenny_Tav%C3%A1rez,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+2 Chainz,"College Park, Georgia, U.S.",33.6175,-84.4675,https://en.wikipedia.org/wiki/2_Chainz,"https://en.wikipedia.org/wiki/College_Park,_Georgia",strong,ok
+NF,"Gladwin, Michigan, U.S.",43.98306,-84.48972,https://en.wikipedia.org/wiki/NF_(rapper),"https://en.wikipedia.org/wiki/Gladwin,_Michigan",strong,ok
+Rels B,"Palma de Mallorca, Spain",39.567,2.65,https://en.wikipedia.org/wiki/Rels_B,"https://en.wikipedia.org/wiki/Palma_de_Mallorca,_Spain",strong,ok
+Roddy Ricch,"Compton, California, U.S.",33.89667,-118.225,https://en.wikipedia.org/wiki/Roddy_Ricch,"https://en.wikipedia.org/wiki/Compton,_California",strong,ok
+Guns N' Roses,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Guns_N%27_Roses,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Noah Kahan,"Strafford, Vermont, U.S.",43.87,-72.37722,https://en.wikipedia.org/wiki/Noah_Kahan,"https://en.wikipedia.org/wiki/Strafford,_Vermont",strong,ok
+Megan Thee Stallion,"San Antonio, Texas, U.S.",29.425,-98.4939,https://en.wikipedia.org/wiki/Megan_Thee_Stallion,"https://en.wikipedia.org/wiki/San_Antonio,_Texas,_U.S.",strong,ok
+Christian Nodal,"Caborca, Sonora, Mexico",30.717,-112.15,https://en.wikipedia.org/wiki/Christian_Nodal,"https://en.wikipedia.org/wiki/Caborca,_Sonora,_Mexico",strong,ok
+Brent Faiyaz,"Columbia, Maryland, U.S.",39.20361,-76.85694,https://en.wikipedia.org/wiki/Brent_Faiyaz,"https://en.wikipedia.org/wiki/Columbia,_Maryland",strong,ok
+Martin Garrix,"Amstelveen, Netherlands",52.3,4.85,https://en.wikipedia.org/wiki/Martin_Garrix,"https://en.wikipedia.org/wiki/Amstelveen,_Netherlands",strong,ok
+Pink Floyd,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Pink_Floyd,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+mgk,"Houston, Texas, U.S.",29.75667,-95.36528,https://en.wikipedia.org/wiki/MGK,"https://en.wikipedia.org/wiki/Houston,_Texas,_U.S.",strong,ok
+Wisin & Yandel,"Cayey, Puerto Rico",18.11167,-66.16583,https://en.wikipedia.org/wiki/Wisin_%26_Yandel,"https://en.wikipedia.org/wiki/Cayey,_Puerto_Rico",strong,ok
+Dr. Dre,"Compton, California, U.S.",33.89667,-118.225,https://en.wikipedia.org/wiki/Dr._Dre,"https://en.wikipedia.org/wiki/Compton,_California",strong,ok
+Mora,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Mora_(singer),"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+Cigarettes After Sex,"El Paso, Texas, U.S.",31.77,-106.24,https://en.wikipedia.org/wiki/Cigarettes_After_Sex,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",strong,ok
+Wisin,"Cayey, Puerto Rico",18.11167,-66.16583,https://en.wikipedia.org/wiki/Wisin,"https://en.wikipedia.org/wiki/Cayey,_Puerto_Rico",strong,ok
+Major Lazer,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Major_Lazer,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+John Mayer,"Bridgeport, Connecticut, U.S.",41.1648,-73.1907,https://en.wikipedia.org/wiki/John_Mayer,https://en.wikipedia.org/wiki/University_of_Bridgeport,strong,ok
+Miguel,"Lynwood, California, U.S.",33.92472,-118.20194,https://en.wikipedia.org/wiki/Miguel_(singer),"https://en.wikipedia.org/wiki/Lynwood,_California",strong,ok
+Lil Nas X,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Lil_Nas_X,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+System Of A Down,"Glendale, California, U.S.",34.1672194,-118.2283806,https://en.wikipedia.org/wiki/System_of_a_Down,https://en.wikipedia.org/wiki/Glendale_Community_College_(California),strong,ok
+Logic,"Rockville, Maryland, U.S.",39.08,-77.14278,https://en.wikipedia.org/wiki/Logic_(rapper),"https://en.wikipedia.org/wiki/Rockville,_Maryland",strong,ok
+ABBA,"Stockholm, Sweden",59.32944,18.06861,https://en.wikipedia.org/wiki/ABBA,"https://en.wikipedia.org/wiki/Stockholm,_Sweden",strong,ok
+Yandel,"Cayey, Puerto Rico",18.11167,-66.16583,https://en.wikipedia.org/wiki/Yandel,"https://en.wikipedia.org/wiki/Cayey,_Puerto_Rico",strong,ok
+Enrique Iglesias,"Madrid, Spain",40.4169,-3.7033,https://en.wikipedia.org/wiki/Enrique_Iglesias,"https://en.wikipedia.org/wiki/Madrid,_Spain",strong,ok
+Lil Yachty,"Mableton, Georgia, U.S.",33.81833,-84.57611,https://en.wikipedia.org/wiki/Lil_Yachty,"https://en.wikipedia.org/wiki/Mableton,_Georgia",strong,ok
+Luis R Conriquez,"Caborca, Sonora, Mexico",30.717,-112.15,https://en.wikipedia.org/wiki/Luis_R._Conriquez,"https://en.wikipedia.org/wiki/Caborca,_Sonora,_Mexico",strong,ok
+Zion & Lennox,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Zion_%26_Lennox,"https://en.wikipedia.org/wiki/Carolina,_Puerto_Rico",strong,ok
+5 Seconds of Summer,"Sydney, New South Wales, Australia",-33.86778,151.21,https://en.wikipedia.org/wiki/5_Seconds_of_Summer,"https://en.wikipedia.org/wiki/Sydney,_New_South_Wales,_Australia",strong,ok
+TWICE,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/Twice,"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+Ñengo Flow,"Río Piedras, Puerto Rico",18.39556,-66.04583,https://en.wikipedia.org/wiki/%C3%91engo_Flow,"https://en.wikipedia.org/wiki/R%C3%ADo_Piedras,_Puerto_Rico",strong,ok
+Michael Bublé,"Burnaby, British Columbia, Canada",49.267,-122.967,https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9,https://en.wikipedia.org/wiki/Burnaby,strong,ok
+Macklemore,"Seattle, Washington, U.S.",47.60389,-122.33,https://en.wikipedia.org/wiki/Macklemore,https://en.wikipedia.org/wiki/Seattle,strong,ok
+Anne-Marie,"East Tilbury, Essex, England",51.4606,0.3582,https://en.wikipedia.org/wiki/Anne-Marie,https://en.wikipedia.org/wiki/Tilbury,strong,ok
+The Rolling Stones,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/The_Rolling_Stones,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Bryant Myers,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Bryant_Myers,"https://en.wikipedia.org/wiki/Carolina,_Puerto_Rico",strong,ok
+Gusttavo Lima,"Presidente Olegário, Minas Gerais, Brazil",-18.41778,-46.41778,https://en.wikipedia.org/wiki/Gusttavo_Lima,https://en.wikipedia.org/wiki/Presidente_Oleg%C3%A1rio,strong,ok
+Eladio Carrion,"Kansas City, Kansas, U.S.",39.10667,-94.67639,https://en.wikipedia.org/wiki/Eladio_Carri%C3%B3n,"https://en.wikipedia.org/wiki/Kansas_City,_Kansas",strong,ok
+Grupo Firme,"Tijuana, Baja California, Mexico",32.525,-117.03333,https://en.wikipedia.org/wiki/Grupo_Firme,"https://en.wikipedia.org/wiki/Tijuana,_Baja_California,_Mexico",strong,ok
+Alicia Keys,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Alicia_Keys,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Kesha,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Kesha,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+LAUV,"San Francisco, California, U.S.",37.7775,-122.41639,https://en.wikipedia.org/wiki/Lauv,"https://en.wikipedia.org/wiki/San_Francisco,_California,_U.S.",strong,ok
+Madonna,"Bay City, Michigan, US",43.595,-83.88861,https://en.wikipedia.org/wiki/Madonna_singer,"https://en.wikipedia.org/wiki/Bay_City,_Michigan",strong,ok
+Reik,"Mexicali, Baja California, Mexico",32.66333,-115.46778,https://en.wikipedia.org/wiki/Reik,https://en.wikipedia.org/wiki/Mexicali,strong,ok
+John Legend,"Springfield, Ohio, U.S.",39.92,-83.77083,https://en.wikipedia.org/wiki/John_Legend,"https://en.wikipedia.org/wiki/Springfield,_Ohio",strong,ok
+Meghan Trainor,"Nantucket, Massachusetts, U.S.",41.28278,-70.09944,https://en.wikipedia.org/wiki/Meghan_Trainor,https://en.wikipedia.org/wiki/Nantucket,strong,ok
+Lil Tecca,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Lil_Tecca,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Lorde,"Auckland, New Zealand",-36.8492,174.7653,https://en.wikipedia.org/wiki/Lorde,"https://en.wikipedia.org/wiki/Auckland,_New_Zealand",strong,ok
+French Montana,"Casablanca, Morocco",33.533,-7.583,https://en.wikipedia.org/wiki/French_Montana,"https://en.wikipedia.org/wiki/Casablanca,_Morocco",strong,ok
+Melanie Martinez,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Melanie_Martinez,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Rick Ross,"Clarksdale, Mississippi, U.S.",34.2,-90.567,https://en.wikipedia.org/wiki/Rick_Ross,"https://en.wikipedia.org/wiki/Clarksdale,_Mississippi",strong,ok
+Cris MJ,"La Serena, Chile",-29.9,-71.25,https://en.wikipedia.org/wiki/Cris_MJ,"https://en.wikipedia.org/wiki/La_Serena,_Chile",strong,ok
+Paramore,"Franklin, Tennessee, U.S.",35.92917,-86.8575,https://en.wikipedia.org/wiki/Paramore,"https://en.wikipedia.org/wiki/Franklin,_Tennessee",strong,ok
+Chance the Rapper,"Chicago, Illinois, U.S.",41.88194,-87.62778,https://en.wikipedia.org/wiki/Chance_the_Rapper,"https://en.wikipedia.org/wiki/Chicago,_Illinois,_U.S.",strong,ok
+Ninho,"Paris, France",48.8567,2.3522,https://en.wikipedia.org/wiki/Ninho,"https://en.wikipedia.org/wiki/Paris,_France",strong,ok
+blackbear,"Daytona Beach, Florida, U.S.",29.21083,-81.08944,https://en.wikipedia.org/wiki/Blackbear_(musician),"https://en.wikipedia.org/wiki/Daytona_Beach,_Florida",strong,ok
+Creedence Clearwater Revival,"El Cerrito, California, U.S.",37.91583,-122.31167,https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival,"https://en.wikipedia.org/wiki/El_Cerrito,_California",strong,ok
+T-Pain,"Tallahassee, Florida, U.S.",30.44194,-84.28194,https://en.wikipedia.org/wiki/T-Pain,"https://en.wikipedia.org/wiki/Tallahassee,_Florida",strong,ok
+Jung Kook,"Busan, South Korea",35.18,129.075,https://en.wikipedia.org/wiki/Jung_Kook,"https://en.wikipedia.org/wiki/Busan,_South_Korea",strong,ok
+Skrillex,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Skrillex,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+DJ Khaled,"New Orleans, Louisiana, U.S.",29.9761,-90.0783,https://en.wikipedia.org/wiki/DJ_Khaled,https://en.wikipedia.org/wiki/New_Orleans,strong,ok
+Wizkid,"Ojuelegba, Lagos, Nigeria",6.50927,3.36685,https://en.wikipedia.org/wiki/Wizkid,https://en.wikipedia.org/wiki/Ojuelegba,strong,ok
+Oasis,"Manchester, England",53.47944,-2.24528,https://en.wikipedia.org/wiki/Oasis_band,"https://en.wikipedia.org/wiki/Manchester,_England",strong,ok
+Slipknot,"Des Moines, Iowa, U.S.",41.58,-93.6125,https://en.wikipedia.org/wiki/Slipknot_band,https://en.wikipedia.org/wiki/Des_Moines_metropolitan_area,strong,ok
+Little Mix,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Little_Mix,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Beéle,"Barranquilla, Atlántico, Colombia",10.98333,-74.80194,https://en.wikipedia.org/wiki/Be%C3%A9le,"https://en.wikipedia.org/wiki/Barranquilla,_Atl%C3%A1ntico,_Colombia",strong,ok
+The Notorious B.I.G.,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/The_Notorious_B.I.G.,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Mitski,"Mie Prefecture, Japan",34.7,136.5,https://en.wikipedia.org/wiki/Mitski,https://en.wikipedia.org/wiki/Mie_Prefecture,strong,ok
+Tainy,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Tainy,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+Rammstein,"Berlin, Germany",52.52,13.405,https://en.wikipedia.org/wiki/Rammstein,"https://en.wikipedia.org/wiki/Berlin,_Germany",strong,ok
+Labrinth,"Hackney, London, England",51.543307,-0.059486,https://en.wikipedia.org/wiki/Labrinth,"https://en.wikipedia.org/wiki/Hackney,_London,_England",strong,ok
+Chencho Corleone,"Guayama, Puerto Rico",17.97417,-66.11,https://en.wikipedia.org/wiki/Chencho_Corleone,"https://en.wikipedia.org/wiki/Guayama,_Puerto_Rico",strong,ok
+Darell,Puerto Rico,18.217,-66.5,https://en.wikipedia.org/wiki/Darell_(rapper),https://en.wikipedia.org/wiki/Puerto_Rico,strong,ok
+Bon Jovi,"Sayreville, New Jersey, U.S.",40.4625,-74.325,https://en.wikipedia.org/wiki/Bon_Jovi,"https://en.wikipedia.org/wiki/Sayreville,_New_Jersey",strong,ok
+The Killers,"Las Vegas, Nevada, U.S.",36.09944,-115.17,https://en.wikipedia.org/wiki/The_Killers_band,https://en.wikipedia.org/wiki/New_Las_Vegas_Stadium,strong,ok
+Summer Walker,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Summer_Walker,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+Jhené Aiko,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Jhen%C3%A9_Aiko,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Clean Bandit,"Cambridge, England",52.205,0.1225,https://en.wikipedia.org/wiki/Clean_Bandit,"https://en.wikipedia.org/wiki/Cambridge,_England",strong,ok
+David Bowie,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/David_Bowie,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+U2,"Dublin, Ireland",53.35,-6.26028,https://en.wikipedia.org/wiki/U2_band,"https://en.wikipedia.org/wiki/Dublin,_Ireland",strong,ok
+Aventura,"The Bronx, New York",40.83722,-73.88611,https://en.wikipedia.org/wiki/Aventura_(band),"https://en.wikipedia.org/wiki/The_Bronx,_New_York",strong,ok
+Foo Fighters,"Seattle, Washington, U.S.",47.60389,-122.33,https://en.wikipedia.org/wiki/Foo_Fighters,https://en.wikipedia.org/wiki/Seattle,strong,ok
+The 1975,"Wilmslow, Cheshire, England",53.325,-2.239,https://en.wikipedia.org/wiki/The_1975,https://en.wikipedia.org/wiki/Wilmslow,strong,ok
+Plan B,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Plan_B_(musician),"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Steve Lacy,"Compton, California, U.S.",33.89667,-118.225,https://en.wikipedia.org/wiki/Steve_Lacy,"https://en.wikipedia.org/wiki/Compton,_California",strong,ok
+De La Ghetto,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/De_la_Ghetto,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Troye Sivan,"Johannesburg, South Africa",-26.20444,28.04556,https://en.wikipedia.org/wiki/Troye_Sivan,"https://en.wikipedia.org/wiki/Johannesburg,_South_Africa",strong,ok
+Conan Gray,"Lemon Grove, California, U.S.",32.74139,-117.03167,https://en.wikipedia.org/wiki/Conan_Gray,"https://en.wikipedia.org/wiki/Lemon_Grove,_California",strong,ok
+Ludacris,"Champaign, Illinois, U.S.",40.14,-88.2,https://en.wikipedia.org/wiki/Ludacris,"https://en.wikipedia.org/wiki/Champaign_County,_Illinois",strong,ok
+Burna Boy,"Port Harcourt, Rivers State, Nigeria",4.82417,7.03361,https://en.wikipedia.org/wiki/Burna_Boy,https://en.wikipedia.org/wiki/Port_Harcourt,strong,ok
+Danny Ocean,"Caracas, Venezuela",10.50611,-66.91444,https://en.wikipedia.org/wiki/Danny_Ocean_(singer),"https://en.wikipedia.org/wiki/Caracas,_Venezuela",strong,ok
+Meek Mill,"Philadelphia, Pennsylvania, U.S.",39.9528,-75.1636,https://en.wikipedia.org/wiki/Meek_Mill,"https://en.wikipedia.org/wiki/Philadelphia,_Pennsylvania,_U.S.",strong,ok
+My Chemical Romance,"New Jersey, U.S.",40.0,-74.5,https://en.wikipedia.org/wiki/My_Chemical_Romance,https://en.wikipedia.org/wiki/New_Jersey,strong,ok
+Alessia Cara,"Mississauga, Ontario, Canada",43.6,-79.65,https://en.wikipedia.org/wiki/Alessia_Cara,"https://en.wikipedia.org/wiki/Mississauga,_Ontario,_Canada",strong,ok
+Vishal-Shekhar,"Mumbai, Maharashtra, India",19.07611,72.8775,https://en.wikipedia.org/wiki/Vishal%E2%80%93Shekhar,"https://en.wikipedia.org/wiki/Mumbai,_Maharashtra,_India",strong,ok
+Yeat,"Irvine, California, U.S.",33.64556,-117.8425,https://en.wikipedia.org/wiki/Yeat,"https://en.wikipedia.org/wiki/University_of_California,_Irvine",strong,ok
+Matheus & Kauan,"Itapuranga, Goiás",-15.56194,-49.94889,https://en.wikipedia.org/wiki/Matheus_%26_Kauan,https://en.wikipedia.org/wiki/Itapuranga,strong,ok
+Alok,"Goiânia, Goiás, Brazil",-15.933,-50.133,https://en.wikipedia.org/wiki/Alok_(DJ),https://en.wikipedia.org/wiki/Goi%C3%A1s,strong,ok
+Bring Me The Horizon,"Sheffield, South Yorkshire, England",53.375,-1.497,https://en.wikipedia.org/wiki/Bring_Me_the_Horizon,"https://en.wikipedia.org/wiki/Sheffield_High_School,_South_Yorkshire",strong,ok
+Central Cee,"Ladbroke Grove, London, England",51.519,-0.211,https://en.wikipedia.org/wiki/Central_Cee,https://en.wikipedia.org/wiki/Ladbroke_Grove,strong,ok
+Mac DeMarco,"Duncan, British Columbia, Canada",48.7786,-123.7081,https://en.wikipedia.org/wiki/Mac_DeMarco,"https://en.wikipedia.org/wiki/Duncan,_British_Columbia",strong,ok
+Benson Boone,"Monroe, Washington, U.S.",47.85778,-121.98833,https://en.wikipedia.org/wiki/Benson_Boone,"https://en.wikipedia.org/wiki/Monroe,_Washington",strong,ok
+Dalex,"Philadelphia, Pennsylvania, U.S.",39.9528,-75.1636,https://en.wikipedia.org/wiki/Dalex,"https://en.wikipedia.org/wiki/Philadelphia,_Pennsylvania,_U.S.",strong,ok
+Nickelback,"Hanna, Alberta, Canada",51.63833,-111.94194,https://en.wikipedia.org/wiki/Nickelback,"https://en.wikipedia.org/wiki/Hanna,_Alberta,_Canada",strong,ok
+Marc Anthony,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Marc_Anthony,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Maná,"Guadalajara, Jalisco, Mexico",20.67667,-103.3475,https://en.wikipedia.org/wiki/Man%C3%A1,"https://en.wikipedia.org/wiki/Guadalajara,_Jalisco,_Mexico",strong,ok
+Led Zeppelin,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Led_Zeppelin,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Måneskin,"Rome, Italy",41.89333,12.48278,https://en.wikipedia.org/wiki/M%C3%A5neskin,"https://en.wikipedia.org/wiki/Rome,_Italy",strong,ok
+Luis Fonsi,"San Juan, Puerto Rico",18.40639,-66.06389,https://en.wikipedia.org/wiki/Luis_Fonsi,"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",strong,ok
+RAYE,"Tooting, London, England",51.428,-0.165,https://en.wikipedia.org/wiki/Raye,"https://en.wikipedia.org/wiki/Tooting,_London,_England",strong,ok
+Neton Vega,"La Paz, Baja California Sur, Mexico",24.14222,-110.31083,https://en.wikipedia.org/wiki/Net%C3%B3n_Vega,"https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",strong,ok
+Gracie Abrams,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Gracie_Abrams,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Timbaland,"Norfolk, Virginia, U.S.",36.7706,-76.4644,https://en.wikipedia.org/wiki/Timbaland,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",strong,ok
+Jeremih,"Chicago, Illinois, U.S.",41.88194,-87.62778,https://en.wikipedia.org/wiki/Jeremih,"https://en.wikipedia.org/wiki/Chicago,_Illinois,_U.S.",strong,ok
+The Lumineers,"Ramsey, New Jersey, U.S.",41.061325,-74.146996,https://en.wikipedia.org/wiki/The_Lumineers,"https://en.wikipedia.org/wiki/Ramsey,_New_Jersey",strong,ok
+Oscar Maydon,"Mexicali, Baja California, Mexico",32.66333,-115.46778,https://en.wikipedia.org/wiki/%C3%93scar_Maydon,https://en.wikipedia.org/wiki/Mexicali,strong,ok
+Anderson .Paak,"Oxnard, California, U.S.",34.19139,-119.1825,https://en.wikipedia.org/wiki/Anderson_.Paak,"https://en.wikipedia.org/wiki/Oxnard,_California",strong,ok
+Chase Atlantic,"Cairns, Queensland, Australia",-16.92,145.78,https://en.wikipedia.org/wiki/Chase_Atlantic,"https://en.wikipedia.org/wiki/Cairns,_Queensland,_Australia",strong,ok
+Prince Royce,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Prince_Royce,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Bastille,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Bastille_(band),"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Sfera Ebbasta,"Sesto San Giovanni, Lombardy, Italy",45.533,9.233,https://en.wikipedia.org/wiki/Sfera_Ebbasta,https://en.wikipedia.org/wiki/Sesto_San_Giovanni,strong,ok
+YG,"Compton, California, U.S.",33.89667,-118.225,https://en.wikipedia.org/wiki/YG_(rapper),"https://en.wikipedia.org/wiki/Compton,_California",strong,ok
+Alejandro Sanz,"Madrid, Spain",40.4169,-3.7033,https://en.wikipedia.org/wiki/Alejandro_Sanz,"https://en.wikipedia.org/wiki/Madrid,_Spain",strong,ok
+Lil Tjay,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Lil_Tjay,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+GIVĒON,"Long Beach, California, U.S.",33.76833,-118.19556,https://en.wikipedia.org/wiki/Giveon,"https://en.wikipedia.org/wiki/Long_Beach,_California",strong,ok
+Billy Joel,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Billy_Joel,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Luke Bryan,"Edison, Georgia, U.S.",31.56083,-84.73806,https://en.wikipedia.org/wiki/Luke_Bryan,"https://en.wikipedia.org/wiki/Edison,_Georgia",strong,ok
+Muse,"Teignmouth, Devon, England",50.5515,-3.4886,https://en.wikipedia.org/wiki/Muse_band,https://en.wikipedia.org/wiki/Teignmouth,strong,ok
+Jonas Blue,"Essex, England",51.75,0.583,https://en.wikipedia.org/wiki/Jonas_Blue,"https://en.wikipedia.org/wiki/Essex,_England",strong,ok
+Teddy Swims,"Conyers, Georgia, U.S.",33.66639,-84.0075,https://en.wikipedia.org/wiki/Teddy_Swims,"https://en.wikipedia.org/wiki/Conyers,_Georgia",strong,ok
+Juanes,"Medellín, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Juanes,"https://en.wikipedia.org/wiki/Medell%C3%ADn,_Colombia",strong,ok
+Jennifer Lopez,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/Jennifer_Lopez,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Cartel De Santa,"Santa Catarina, Nuevo León, Mexico",25.683,-100.45,https://en.wikipedia.org/wiki/Cartel_de_Santa,"https://en.wikipedia.org/wiki/Santa_Catarina,_Nuevo_Le%C3%B3n",strong,ok
+T.I.,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/T.I.,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+El Alfa,"Bajos de Haina, Dominican Republic",18.417,-70.033,https://en.wikipedia.org/wiki/El_Alfa,https://en.wikipedia.org/wiki/Bajos_de_Haina,strong,ok
+Blessd,"Itagüí, Antioquia, Colombia",6.167,-75.617,https://en.wikipedia.org/wiki/Blessd,https://en.wikipedia.org/wiki/Itag%C3%BC%C3%AD,strong,ok
+NATTI NATASHA,"Santiago de los Caballeros, Dominican Republic",19.45722,-70.68889,https://en.wikipedia.org/wiki/Natti_Natasha,"https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros,_Dominican_Republic",strong,ok
+Bruce Springsteen,"Long Branch, New Jersey, U.S.",40.295372,-73.989899,https://en.wikipedia.org/wiki/Bruce_Springsteen,"https://en.wikipedia.org/wiki/Long_Branch,_New_Jersey",strong,ok
+Alfredo Olivas,"Ciudad Obregón, Sonora, Mexico",27.49389,-109.93889,https://en.wikipedia.org/wiki/Alfredo_Olivas,https://en.wikipedia.org/wiki/Ciudad_Obreg%C3%B3n,strong,ok
+Jonas Brothers,"Wyckoff, New Jersey, U.S.",40.999093,-74.168849,https://en.wikipedia.org/wiki/Jonas_Brothers,"https://en.wikipedia.org/wiki/Wyckoff,_New_Jersey",strong,ok
+Hans Zimmer,"Frankfurt, West Germany",52.341944,14.551667,https://en.wikipedia.org/wiki/Hans_Zimmer,https://en.wikipedia.org/wiki/Frankfurt_(Oder),strong,ok
+Julia Michaels,"Davenport, Iowa, U.S.",41.52333,-90.57583,https://en.wikipedia.org/wiki/Julia_Michaels,"https://en.wikipedia.org/wiki/The_Davenport_(Davenport,_Iowa)",strong,ok
+Deftones,"Sacramento, California, U.S.",38.45,-121.35,https://en.wikipedia.org/wiki/Deftones,"https://en.wikipedia.org/wiki/Sacramento_County,_California",strong,ok
+Clairo,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/Clairo,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+Whitney Houston,"Newark, New Jersey, U.S.",40.7356,-74.1722,https://en.wikipedia.org/wiki/Whitney_Houston,"https://en.wikipedia.org/wiki/Newark,_New_Jersey",strong,ok
+Tove Lo,"Helsingborg, Sweden",56.05,12.717,https://en.wikipedia.org/wiki/Tove_Lo,"https://en.wikipedia.org/wiki/Helsingborg,_Sweden",strong,ok
+DJ Luian,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/DJ_Luian,"https://en.wikipedia.org/wiki/Carolina,_Puerto_Rico",strong,ok
+Amy Winehouse,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Amy_Winehouse,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+TV Girl,"San Diego, California, U.S.",32.715,-117.1625,https://en.wikipedia.org/wiki/TV_Girl,"https://en.wikipedia.org/wiki/San_Diego,_California,_U.S.",strong,ok
+Tanishk Bagchi,"Kolkata, West Bengal, India",22.5675,88.37,https://en.wikipedia.org/wiki/Tanishk_Bagchi,https://en.wikipedia.org/wiki/Kolkata,strong,ok
+Lost Frequencies,"Brussels, Belgium",50.84667,4.3525,https://en.wikipedia.org/wiki/Lost_Frequencies,"https://en.wikipedia.org/wiki/Brussels,_Belgium",strong,ok
+Kings of Leon,"Mount Juliet, Tennessee, U.S.",36.20278,-86.51361,https://en.wikipedia.org/wiki/Kings_of_Leon,"https://en.wikipedia.org/wiki/Mount_Juliet,_Tennessee",strong,ok
+Joan Sebastian,"Juliantla, Guerrero, Mexico",18.317,-99.867,https://en.wikipedia.org/wiki/Joan_Sebastian,https://en.wikipedia.org/wiki/Juliantla,strong,ok
+Alejandro Fernández,"Guadalajara, Jalisco, Mexico",20.67667,-103.3475,https://en.wikipedia.org/wiki/Alejandro_Fern%C3%A1ndez,"https://en.wikipedia.org/wiki/Guadalajara,_Jalisco,_Mexico",strong,ok
+Glass Animals,"Oxford, England",51.75194,-1.25778,https://en.wikipedia.org/wiki/Glass_Animals,"https://en.wikipedia.org/wiki/Oxford,_England",strong,ok
+Sachin-Jigar,"Mumbai, India",19.07611,72.8775,https://en.wikipedia.org/wiki/Sachin%E2%80%93Jigar,"https://en.wikipedia.org/wiki/Mumbai,_India",strong,ok
+Fetty Wap,"Paterson, New Jersey, U.S.",40.91667,-74.17222,https://en.wikipedia.org/wiki/Fetty_Wap,"https://en.wikipedia.org/wiki/Paterson,_New_Jersey",strong,ok
+NAV,"Toronto, Ontario, Canada",43.6525,-79.38167,https://en.wikipedia.org/wiki/Nav_(rapper),"https://en.wikipedia.org/wiki/Toronto,_Ontario,_Canada",strong,ok
+Jack Johnson,"North Shore, Oahu, Hawaii, U.S.",21.6197,-158.0856,https://en.wikipedia.org/wiki/Jack_Johnson_(musician),https://en.wikipedia.org/wiki/North_Shore_(O%CA%BBahu),strong,ok
+The Script,"Dublin, Ireland",53.35,-6.26028,https://en.wikipedia.org/wiki/The_Script,"https://en.wikipedia.org/wiki/Dublin,_Ireland",strong,ok
+TINI,"Buenos Aires, Argentina",-34.60389,-58.38139,https://en.wikipedia.org/wiki/Tini_(singer),"https://en.wikipedia.org/wiki/Buenos_Aires,_Argentina",strong,ok
+Jimin,"Busan, South Korea",35.18,129.075,https://en.wikipedia.org/wiki/Jimin,"https://en.wikipedia.org/wiki/Busan,_South_Korea",strong,ok
+NLE Choppa,"Memphis, Tennessee, U.S.",35.117,-89.971,https://en.wikipedia.org/wiki/NLE_Choppa,"https://en.wikipedia.org/wiki/Timeline_of_Memphis,_Tennessee",strong,ok
+GIMS,"Kinshasa, DR Congo",-4.32194,15.31194,https://en.wikipedia.org/wiki/Gims,"https://en.wikipedia.org/wiki/Kinshasa,_DR_Congo",strong,ok
+Calibre 50,"Mazatlán, Sinaloa, Mexico",23.217,-106.417,https://en.wikipedia.org/wiki/Calibre_50,"https://en.wikipedia.org/wiki/Mazatlan,_Sinaloa,_Mexico",strong,ok
+Chappell Roan,"Willard, Missouri, U.S.",37.29444,-93.42333,https://en.wikipedia.org/wiki/Chappell_Roan,"https://en.wikipedia.org/wiki/Willard,_Missouri",strong,ok
+Stevie Wonder,"Saginaw, Michigan, U.S.",43.42,-83.95,https://en.wikipedia.org/wiki/Stevie_Wonder,"https://en.wikipedia.org/wiki/Saginaw,_Michigan",strong,ok
+Juicy J,"Memphis, Tennessee, U.S.",35.117,-89.971,https://en.wikipedia.org/wiki/Juicy_J,"https://en.wikipedia.org/wiki/Timeline_of_Memphis,_Tennessee",strong,ok
+Mark Ronson,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Mark_Ronson,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Kelly Clarkson,"Fort Worth, Texas, U.S.",32.79028,-97.34611,https://en.wikipedia.org/wiki/Kelly_Clarkson,https://en.wikipedia.org/wiki/Fort_Worth_Stockyards,strong,ok
+The Offspring,"Garden Grove, California, U.S.",33.77889,-117.96028,https://en.wikipedia.org/wiki/The_Offspring,"https://en.wikipedia.org/wiki/Garden_Grove,_California",strong,ok
+Milo j,"Morón, Buenos Aires, Argentina",-34.65,-58.617,https://en.wikipedia.org/wiki/Milo_J,"https://en.wikipedia.org/wiki/Mor%C3%B3n,_Buenos_Aires",strong,ok
+Jay Wheeler,"Salinas, Puerto Rico",17.977,-66.298,https://en.wikipedia.org/wiki/Jay_Wheeler,"https://en.wikipedia.org/wiki/Salinas,_Puerto_Rico",strong,ok
+felix jaehn,"Hamburg, Germany",53.55,10.0,https://en.wikipedia.org/wiki/Felix_Jaehn,"https://en.wikipedia.org/wiki/Hamburg,_Germany",strong,ok
+Niall Horan,"Mullingar, County Westmeath, Ireland",53.5,-7.5,https://en.wikipedia.org/wiki/Niall_Horan,https://en.wikipedia.org/wiki/County_Westmeath,strong,ok
+6ix9ine,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/6ix9ine,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Nate Dogg,"Long Beach, California, U.S.",33.76833,-118.19556,https://en.wikipedia.org/wiki/Nate_Dogg,"https://en.wikipedia.org/wiki/Long_Beach,_California",strong,ok
+Noriel,"Hato Rey, Puerto Rico",18.4235,-66.0576,https://en.wikipedia.org/wiki/Noriel,"https://en.wikipedia.org/wiki/Hato_Rey,_Puerto_Rico",strong,ok
+Vicente Fernández,"Guadalajara, Jalisco, Mexico",20.67667,-103.3475,https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez,"https://en.wikipedia.org/wiki/Guadalajara,_Jalisco,_Mexico",strong,ok
+Aerosmith,"Boston, Massachusetts, U.S.",42.36028,-71.05778,https://en.wikipedia.org/wiki/Aerosmith,https://en.wikipedia.org/wiki/Boston,strong,ok
+Udit Narayan,"Baisi, Supaul district, Bihar, India",25.93,86.25,https://en.wikipedia.org/wiki/Udit_Narayan,https://en.wikipedia.org/wiki/Supaul_district,strong,ok
+Piso 21,"Medellín, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Piso_21,"https://en.wikipedia.org/wiki/Medell%C3%ADn,_Colombia",strong,ok
+Rod Wave,"St. Petersburg, Florida, U.S.",27.82222,-82.67056,https://en.wikipedia.org/wiki/Rod_Wave,"https://en.wikipedia.org/wiki/St._Petersburg,_Florida",strong,ok
+Vance Joy,"Melbourne, Victoria, Australia",-37.81417,144.96306,https://en.wikipedia.org/wiki/Vance_Joy,"https://en.wikipedia.org/wiki/Melbourne,_Victoria,_Australia",strong,ok
+Bon Iver,"Eau Claire, Wisconsin, U.S.",44.817,-91.5,https://en.wikipedia.org/wiki/Bon_Iver,"https://en.wikipedia.org/wiki/Eau_Claire,_Wisconsin",strong,ok
+JENNIE,"Seongnam, Gyeonggi, South Korea",37.433,127.15,https://en.wikipedia.org/wiki/Jennie_(singer),https://en.wikipedia.org/wiki/Seongnam,strong,ok
+Russ,"Secaucus, New Jersey, U.S.",40.781958,-74.067649,https://en.wikipedia.org/wiki/Russ_(rapper),"https://en.wikipedia.org/wiki/Secaucus,_New_Jersey",strong,ok
+Rae Sremmurd,"Tupelo, Mississippi, U.S.",34.25972,-88.72583,https://en.wikipedia.org/wiki/Rae_Sremmurd,"https://en.wikipedia.org/wiki/Tupelo,_Mississippi",strong,ok
+Jess Glynne,"Hampstead, London, England",51.5541,-0.1744,https://en.wikipedia.org/wiki/Jess_Glynne,"https://en.wikipedia.org/wiki/Hampstead,_London,_England",strong,ok
+The Smiths,"Manchester, England",53.47944,-2.24528,https://en.wikipedia.org/wiki/The_Smiths,"https://en.wikipedia.org/wiki/Manchester,_England",strong,ok
+Eagles,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Eagles_(band),"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+The Police,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/The_Police,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Phil Collins,"Wandsworth, London, England",51.455,-0.192,https://en.wikipedia.org/wiki/Phil_Collins,"https://en.wikipedia.org/wiki/Wandsworth,_London,_England",strong,ok
+The Strokes,"New York City, New York, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/The_Strokes,"https://en.wikipedia.org/wiki/New_York_City,_New_York,_U.S.",strong,ok
+Atif Aslam,"Wazirabad, Punjab, Pakistan",32.43528,74.11417,https://en.wikipedia.org/wiki/Atif_Aslam,https://en.wikipedia.org/wiki/Wazirabad,strong,ok
+Ovy On The Drums,"Medellín, Colombia",6.23083,-75.59056,https://en.wikipedia.org/wiki/Ovy_on_the_Drums,"https://en.wikipedia.org/wiki/Medell%C3%ADn,_Colombia",strong,ok
+Olivia Dean,"Tottenham, London, England",51.5975,-0.06806,https://en.wikipedia.org/wiki/Olivia_Dean,"https://en.wikipedia.org/wiki/Tottenham,_London,_England",strong,ok
+NewJeans,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/NewJeans,"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+Avenged Sevenfold,"Huntington Beach, California, U.S.",33.655093,-118.004193,https://en.wikipedia.org/wiki/Avenged_Sevenfold,https://en.wikipedia.org/wiki/Huntington_Beach_Pier,strong,ok
+Ricardo Arjona,"Jocotenango, Guatemala",14.58194,-90.74361,https://en.wikipedia.org/wiki/Ricardo_Arjona,https://en.wikipedia.org/wiki/Jocotenango,strong,ok
+Los Ángeles Azules,"Iztapalapa, Mexico City, Mexico",19.35833,-99.09306,https://en.wikipedia.org/wiki/Los_%C3%81ngeles_Azules,https://en.wikipedia.org/wiki/Iztapalapa,strong,ok
+Rex Orange County,"Grayshott, England",51.11031,-0.75437,https://en.wikipedia.org/wiki/Rex_Orange_County,https://en.wikipedia.org/wiki/Grayshott,strong,ok
+6LACK,"Baltimore, Maryland, U.S.",39.28944,-76.61528,https://en.wikipedia.org/wiki/6lack,https://en.wikipedia.org/wiki/Baltimore,strong,ok
+Disclosure,"Reigate, Surrey, England",51.237,-0.206,https://en.wikipedia.org/wiki/Disclosure_(band),https://en.wikipedia.org/wiki/Reigate,strong,ok
+Brytiago,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Brytiago,"https://en.wikipedia.org/wiki/Carolina,_Puerto_Rico",strong,ok
+Alesso,"Stockholm, Sweden",59.32944,18.06861,https://en.wikipedia.org/wiki/Alesso,"https://en.wikipedia.org/wiki/Stockholm,_Sweden",strong,ok
+RAF Camora,"Vevey, Switzerland",46.467,6.85,https://en.wikipedia.org/wiki/RAF_Camora,"https://en.wikipedia.org/wiki/Vevey,_Switzerland",strong,ok
+Nelly,"Austin, Texas, U.S.",30.26722,-97.74306,https://en.wikipedia.org/wiki/Nelly,"https://en.wikipedia.org/wiki/Austin,_Texas",strong,ok
+Mumford & Sons,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Mumford_%26_Sons,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Pearl Jam,"Seattle, Washington, U.S.",47.60389,-122.33,https://en.wikipedia.org/wiki/Pearl_Jam,https://en.wikipedia.org/wiki/Seattle,strong,ok
+Ryan Castro,"Bello, Antioquia, Colombia",6.333,-75.567,https://en.wikipedia.org/wiki/Ryan_Castro,"https://en.wikipedia.org/wiki/Bello,_Antioquia",strong,ok
+Nelly Furtado,"Victoria, British Columbia, Canada",48.42833,-123.36472,https://en.wikipedia.org/wiki/Nelly_Furtado,"https://en.wikipedia.org/wiki/Victoria,_British_Columbia,_Canada",strong,ok
+Wesley Safadão,"Fortaleza, Ceará, Brazil",-3.7275,-38.5275,https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o,https://en.wikipedia.org/wiki/Fortaleza,strong,ok
+Disturbed,"Chicago, Illinois, U.S.",41.88194,-87.62778,https://en.wikipedia.org/wiki/Disturbed,"https://en.wikipedia.org/wiki/Chicago,_Illinois,_U.S.",strong,ok
+Rita Ora,"Pristina, SFR Yugoslavia (now Kosovo )",43.15,19.78,https://en.wikipedia.org/wiki/Rita_Ora,https://en.wikipedia.org/wiki/Serbia_and_Montenegro,strong,ok
+Kevin Gates,"Baton Rouge, Louisiana, U.S.",30.54,-91.09,https://en.wikipedia.org/wiki/Kevin_Gates,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",strong,ok
+beabadoobee,"Iloilo City, Philippines",10.7,122.57,https://en.wikipedia.org/wiki/Beabadoobee,"https://en.wikipedia.org/wiki/Iloilo_City,_Philippines",strong,ok
+Karan Aujla,"Ludhiana district, Punjab, India",30.883,75.85,https://en.wikipedia.org/wiki/Karan_Aujla,https://en.wikipedia.org/wiki/Ludhiana_district,strong,ok
+Céline Dion,"Charlemagne, Quebec, Canada",45.717,-73.483,https://en.wikipedia.org/wiki/Celine_Dion,"https://en.wikipedia.org/wiki/Charlemagne,_Quebec",strong,ok
+Bryan Adams,"Kingston, Ontario, Canada",44.23056,-76.48111,https://en.wikipedia.org/wiki/Bryan_Adams,"https://en.wikipedia.org/wiki/Kingston,_Ontario,_Canada",strong,ok
+ENHYPEN,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/Enhypen,"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+Dominic Fike,"Naples, Florida, U.S.",26.13611,-81.79444,https://en.wikipedia.org/wiki/Dominic_Fike,"https://en.wikipedia.org/wiki/Naples,_Florida",strong,ok
+Ana Castela,"Amambai, Mato Grosso do Sul, Brazil",-20.44278,-54.64583,https://en.wikipedia.org/wiki/Ana_Castela,https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul,strong,ok
+LANY,"Nashville, Tennessee, U.S.",36.17,-86.78,https://en.wikipedia.org/wiki/LANY,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",strong,ok
+Johnny Cash,"Kingsland, Arkansas, U.S.",33.87,-92.27917,https://en.wikipedia.org/wiki/Johnny_Cash,"https://en.wikipedia.org/wiki/Kingsland,_Arkansas",strong,ok
+B.o.B,"Winston-Salem, North Carolina, U.S.",36.0895,-80.2251,https://en.wikipedia.org/wiki/B.o.B,https://en.wikipedia.org/wiki/Winston-Salem_State_University,strong,ok
+Jason Aldean,"Macon, Georgia, U.S.",32.35,-84.04,https://en.wikipedia.org/wiki/Jason_Aldean,"https://en.wikipedia.org/wiki/Macon_County,_Georgia",strong,ok
+Luan Santana,"Campo Grande, Mato Grosso do Sul, Brazil",-20.44278,-54.64583,https://en.wikipedia.org/wiki/Luan_Santana,https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul,strong,ok
+KHEA,"Virreyes, Buenos Aires, Argentina",-34.60389,-58.38139,https://en.wikipedia.org/wiki/Khea,https://en.wikipedia.org/wiki/Buenos_Aires,strong,ok
+Tiago PZK,"Monte Grande, Buenos Aires, Argentina",-34.827194,-58.462028,https://en.wikipedia.org/wiki/Tiago_PZK,https://en.wikipedia.org/wiki/Monte_Grande,strong,ok
+Tom Odell,"Chichester, West Sussex, England",50.8365,-0.7792,https://en.wikipedia.org/wiki/Tom_Odell,https://en.wikipedia.org/wiki/Chichester,strong,ok
+Macklemore & Ryan Lewis,"Seattle, Washington, U.S.",47.60389,-122.33,https://en.wikipedia.org/wiki/Macklemore_%26_Ryan_Lewis,https://en.wikipedia.org/wiki/Seattle,strong,ok
+Thomas Rhett,"Valdosta, Georgia, U.S.",30.84667,-83.28306,https://en.wikipedia.org/wiki/Thomas_Rhett,"https://en.wikipedia.org/wiki/Valdosta,_Georgia",strong,ok
+MØ,"Ubberud, Odense, Denmark",55.39694,10.25583,https://en.wikipedia.org/wiki/M%C3%98,https://en.wikipedia.org/wiki/Ubberud,strong,ok
+Five Finger Death Punch,"Las Vegas, Nevada, U.S.",36.09944,-115.17,https://en.wikipedia.org/wiki/Five_Finger_Death_Punch,https://en.wikipedia.org/wiki/New_Las_Vegas_Stadium,strong,ok
+Kane Brown,"Chattanooga, Tennessee, U.S.",35.0458,-85.2999,https://en.wikipedia.org/wiki/Kane_Brown,https://en.wikipedia.org/wiki/University_of_Tennessee_at_Chattanooga,strong,ok
+Laufey,"Reykjavík, Iceland",64.14583,-21.9425,https://en.wikipedia.org/wiki/Laufey_(singer),"https://en.wikipedia.org/wiki/Reykjav%C3%ADk,_Iceland",strong,ok
+Nicki Nicole,"Rosario, Santa Fe, Argentina",-31.633,-60.7,https://en.wikipedia.org/wiki/Nicki_Nicole,"https://en.wikipedia.org/wiki/Santa_Fe,_Argentina",strong,ok
+Moneybagg Yo,"Memphis, Tennessee, U.S.",35.117,-89.971,https://en.wikipedia.org/wiki/Moneybagg_Yo,"https://en.wikipedia.org/wiki/Timeline_of_Memphis,_Tennessee",strong,ok
+Ryan Lewis,"Spokane, Washington, U.S.",47.620375,-117.403371,https://en.wikipedia.org/wiki/Ryan_Lewis,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",strong,ok
+Morad,"L'Hospitalet de Llobregat, Catalonia, Spain",41.35972,2.1,https://en.wikipedia.org/wiki/Morad_(rapper),https://en.wikipedia.org/wiki/L%27Hospitalet_de_Llobregat,strong,ok
+Calum Scott,"Beverley, East Riding of Yorkshire, England",53.917,-0.5,https://en.wikipedia.org/wiki/Calum_Scott,https://en.wikipedia.org/wiki/East_Riding_of_Yorkshire,strong,ok
+TOMORROW X TOGETHER,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/Tomorrow_X_Together,"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+JID,"Atlanta, Georgia, U.S.",33.74889,-84.39,https://en.wikipedia.org/wiki/JID,https://en.wikipedia.org/wiki/Atlanta,strong,ok
+YNW Melly,"Gifford, Florida, U.S.",27.67556,-80.42528,https://en.wikipedia.org/wiki/YNW_Melly,"https://en.wikipedia.org/wiki/Gifford,_Florida",strong,ok
+Los Temerarios,"Fresnillo, Zacatecas, Mexico",23.175,-102.8675,https://en.wikipedia.org/wiki/Los_Temerarios,https://en.wikipedia.org/wiki/Fresnillo,strong,ok
+Juan Gabriel,"Parácuaro, Michoacán, Mexico",19.14667,-102.21944,https://en.wikipedia.org/wiki/Juan_Gabriel,https://en.wikipedia.org/wiki/Par%C3%A1cuaro,strong,ok
+Jason Mraz,"Mechanicsville, Virginia, U.S.",37.60389,-77.37222,https://en.wikipedia.org/wiki/Jason_Mraz,"https://en.wikipedia.org/wiki/Mechanicsville,_Virginia",strong,ok
+The Cure,"Crawley, West Sussex, England",51.10917,-0.18722,https://en.wikipedia.org/wiki/The_Cure,https://en.wikipedia.org/wiki/Crawley,strong,ok
+The Marías,"Los Angeles, California, US",34.05,-118.25,https://en.wikipedia.org/wiki/The_Mar%C3%ADas,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_US",strong,ok
+Limp Bizkit,"Jacksonville, Florida, U.S.",30.335245,-81.64811278,https://en.wikipedia.org/wiki/Limp_Bizkit,"https://en.wikipedia.org/wiki/Duval_County,_Florida",strong,ok
+Korn,"Bakersfield, California, U.S.",35.35,-119.104,https://en.wikipedia.org/wiki/Korn_band,"https://en.wikipedia.org/wiki/California_State_University,_Bakersfield",strong,ok
+Omar Courtz,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Omar_Courtz,"https://en.wikipedia.org/wiki/Carolina,_Puerto_Rico",strong,ok
+Junior H,"Cerano, Guanajuato, Mexico",,,https://en.wikipedia.org/wiki/Junior_H,,strong,no_coordinates
+Lil Peep,"Allentown, Pennsylvania, U.S.",,,https://en.wikipedia.org/wiki/Lil_Peep,,strong,no_coordinates
+Swae Lee,"Inglewood, California, U.S.",,,https://en.wikipedia.org/wiki/Swae_Lee,,strong,no_coordinates
+Duki,"Almagro, Buenos Aires, Argentina",,,https://en.wikipedia.org/wiki/Duki_(rapper),,strong,no_coordinates
+Anirudh Ravichander,"Chennai, Tamil Nadu, India",,,https://en.wikipedia.org/wiki/Anirudh_Ravichander,,strong,no_coordinates
+Bryson Tiller,"Louisville, Kentucky, U.S.",,,https://en.wikipedia.org/wiki/Bryson_Tiller,,strong,no_coordinates
+Becky G,"Inglewood, California, U.S.",,,https://en.wikipedia.org/wiki/Becky_G,,strong,no_coordinates
+Jack Harlow,"Louisville, Kentucky, U.S.",,,https://en.wikipedia.org/wiki/Jack_Harlow,,strong,no_coordinates
+Ava Max,"Milwaukee, Wisconsin, US",,,https://en.wikipedia.org/wiki/Ava_Max,,strong,no_coordinates
+Frank Sinatra,"Hoboken, New Jersey, US",,,https://en.wikipedia.org/wiki/Frank_Sinatra,,strong,no_coordinates
+Robin Schulz,"Osnabrück, West Germany",,,https://en.wikipedia.org/wiki/Robin_Schulz,,strong,no_coordinates
+Amitabh Bhattacharya,,,,,,,no_article
+Chris Stapleton,"Lexington, Kentucky, U.S.",,,https://en.wikipedia.org/wiki/Chris_Stapleton,,strong,no_coordinates
+Zedd,"Saratov, Russian SFSR, Soviet Union",,,https://en.wikipedia.org/wiki/Zedd,,strong,no_coordinates
+Irshad Kamil,,,,,,,no_article
+Kehlani,"Oakland, California, U.S.",,,https://en.wikipedia.org/wiki/Kehlani,,strong,no_coordinates
+Maria Becerra,"Quilmes, Buenos Aires, Argentina",,,https://en.wikipedia.org/wiki/Mar%C3%ADa_Becerra,,strong,no_coordinates
+La Arrolladora Banda El Limón De Rene Camacho,,,,,,,no_article
+Florida Georgia Line,"Nashville, Tennessee, U.S.",,,https://en.wikipedia.org/wiki/Florida_Georgia_Line,,strong,no_coordinates
+Gabito Ballesteros,"Cumpas, Sonora, Mexico",,,https://en.wikipedia.org/wiki/Gabito_Ballesteros,,strong,no_coordinates
+Alka Yagnik,,,,,,,no_article
+Bonez MC,"Hamburg, West Germany",,,https://en.wikipedia.org/wiki/Bonez_MC,,strong,no_coordinates
+Three Days Grace,"Norwood, Ontario, Canada",44.35306,-78.01833,https://en.wikipedia.org/wiki/Three_Days_Grace,https://en.wikipedia.org/wiki/Asphodel%E2%80%93Norwood,strong,ok
+ScHoolboy Q,"Wiesbaden, West Germany",,,https://en.wikipedia.org/wiki/Schoolboy_Q,,strong,no_coordinates
+H.E.R.,"Vallejo, California, U.S.",,,https://en.wikipedia.org/wiki/H.E.R.,,strong,no_coordinates
+Dua Lipa,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Dua_Lipa,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Harry Styles,"Redditch, Worcestershire, England",,,https://en.wikipedia.org/wiki/Harry_Styles,,strong,no_coordinates
+Pritam,"Calcutta, West Bengal, India",22.5675,88.37,https://en.wikipedia.org/wiki/Pritam_Chakraborty,https://en.wikipedia.org/wiki/Kolkata,weak,ok
+Ty Dolla $ign,"Los Angeles, California, U.S.",34.05,-118.25,https://en.wikipedia.org/wiki/Ty_Dolla_Sign,"https://en.wikipedia.org/wiki/Los_Angeles,_California,_U.S.",strong,ok
+Die drei ???,,,,,,,no_article
+A$AP Rocky,"New York City, U.S.",40.7128,-74.0061,https://en.wikipedia.org/wiki/ASAP_Rocky,"https://en.wikipedia.org/wiki/New_York_City,_U.S.",strong,ok
+Disney,,,,,,,no_article
+$uicideboy$,"New Orleans, Louisiana, U.S.",29.9761,-90.0783,https://en.wikipedia.org/wiki/Suicideboys,https://en.wikipedia.org/wiki/New_Orleans,strong,ok
+Henrique & Juliano,,,,,,,no_article
+Elton John,"Pinner, Middlesex, England",51.5932,-0.3894,https://en.wikipedia.org/wiki/Elton_John,https://en.wikipedia.org/wiki/Pinner,strong,ok
+Fleetwood Mac,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Fleetwood_Mac,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+P!nk,"Doylestown, Pennsylvania, U.S.",40.31278,-75.12889,https://en.wikipedia.org/wiki/Pink_(singer),"https://en.wikipedia.org/wiki/Doylestown,_Pennsylvania",strong,ok
+Bob Marley & The Wailers,"Kingston, Jamaica",17.97139,-76.79306,https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers,"https://en.wikipedia.org/wiki/Kingston,_Jamaica",strong,ok
+2Pac,,,,,,,no_article
+Mariah Carey,"Huntington, New York, US",40.86,-73.35222,https://en.wikipedia.org/wiki/Mariah_Carey,"https://en.wikipedia.org/wiki/Huntington,_New_York",strong,ok
+Banda MS de Sergio Lizárraga,"Mazatlán, Sinaloa, México",23.217,-106.417,https://en.wikipedia.org/wiki/Banda_MS,"https://en.wikipedia.org/wiki/Mazatlan,_Sinaloa,_Mexico",weak,ok
+Childish Gambino,,,,,,,no_article
+ZAYN,"Bradford, West Yorkshire, England",53.79444,-1.75194,https://en.wikipedia.org/wiki/Zayn_Malik,"https://en.wikipedia.org/wiki/Bradford,_West_Yorkshire,_England",weak,ok
+MC Ryan SP,,,,,,,no_article
+Elvis Presley,"Tupelo, Mississippi, US",34.25972,-88.72583,https://en.wikipedia.org/wiki/Elvis_Presley,"https://en.wikipedia.org/wiki/Tupelo,_Mississippi",strong,ok
+Christina Aguilera,"New York City, US",40.7128,-74.0061,https://en.wikipedia.org/wiki/Christina_Aguilera,"https://en.wikipedia.org/wiki/New_York_City,_US",strong,ok
+Zé Neto & Cristiano,,,,,,,no_article
+blink-182,"Poway, California, U.S.",32.97,-117.03861,https://en.wikipedia.org/wiki/Blink-182,"https://en.wikipedia.org/wiki/Poway,_California",strong,ok
+Paulo Londra,,,,,,,no_article
+League of Legends,,,,,,,no_article
+Julión Álvarez y su Norteño Banda,"La Concordia, Chiapas, Mexico",,,https://en.wikipedia.org/wiki/Juli%C3%B3n_%C3%81lvarez,,weak,no_coordinates
+Florence + The Machine,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Florence_and_the_Machine,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Dave,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Dave_(rapper),"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Avril Lavigne,"Belleville, Ontario, Canada",44.167,-77.383,https://en.wikipedia.org/wiki/Avril_Lavigne,"https://en.wikipedia.org/wiki/Belleville,_Ontario",strong,ok
+SEVENTEEN,"Seoul, South Korea",37.56,126.99,https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band),"https://en.wikipedia.org/wiki/Seoul,_South_Korea",strong,ok
+Backstreet Boys,"Orlando, Florida, U.S.",28.54,-81.38,https://en.wikipedia.org/wiki/Backstreet_Boys,https://en.wikipedia.org/wiki/Greater_Orlando,strong,ok
+Mambo Kingz,,,,,,,no_article
+Bibi Blocksberg,,,,,,,no_article
+Bee Gees,,,,https://en.wikipedia.org/wiki/Bee_Gees,,strong,no_birthplace
+Eslabon Armado,,,,,,,no_article
+Dire Straits,"London, England",51.50722,-0.1275,https://en.wikipedia.org/wiki/Dire_Straits,"https://en.wikipedia.org/wiki/London,_England",strong,ok
+Kumaar,,,,,,,no_article
+Zion,"Carolina, Puerto Rico",18.40611,-65.96722,https://en.wikipedia.org/wiki/Zion_%26_Lennox,"https://en.wikipedia.org/wiki/Carolina,_Puerto_Rico",weak,ok
+Maiara & Maraisa,,,,,,,no_article
+Mc IG,,,,,,,no_article
+Grupo Menos É Mais,,,,,,,no_article
+Magenta,,,,,,,no_article
+Grupo Marca Registrada,,,,,,,no_article
+benny blanco,,,,,,,no_article
