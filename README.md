@@ -1,6 +1,6 @@
 # What Makes a Music Artist Successful?
 
-Group project for **Programming for Data Science 2026/2027**, NOVA IMS, Bachelor's in Data Science, **Group [05]**.
+Group project for Programming for Data Science 2026/2027, NOVA IMS, Bachelor's in Data Science, Group [05].
 
 This project analyses the all-time streaming data of 500 of the world's most-streamed music artists to understand which factors are associated with their success. It covers data cleaning and analysis, web scraping of each artist's birthplace from Wikipedia, interactive world maps of streams, and [one sentence on the 4.3 idea].
 
@@ -17,14 +17,14 @@ This project analyses the all-time streaming data of 500 of the world's most-str
 
 The work was divided into parts, each developed in its own notebook and later merged into the final notebook.
 
-| Part | Notebook | Content | Author |
-|---|---|---|---|
-| 2.1–2.3 Data wrangling | `[A's notebook].ipynb` | Data quality and cleaning (Q1), basic exploratory analysis (Q2), data update analysis (Q3) | [name] |
-| 2.4–2.5 Analysis | `B_analysis.ipynb` | Career length and collaborations (Q4), additional insights (Q5) | [name] |
-| 3.1 Web scraping | `Web_Scraping_PDS_project.ipynb` | Birthplace or origin of each artist and its coordinates, scraped from Wikipedia starting from the Main Page | José Jesus |
-| 3.2 Interactive maps | `[D's notebook].ipynb` | World map with one marker per artist (sized by total streams) and density map of streams by birthplace | [name] |
-| 4. Data Science in Action | `[notebook].ipynb` | [short description of the 4.3 idea] | [names] |
-| Final notebook | `GroupXX_PDS_2627.ipynb` | All parts merged, run from start to finish | All |
+| Part | Notebook | Content |
+|---|---|---|
+| 2.1–2.3 Data wrangling | `A_wrangling.ipynb` | Data quality and cleaning (Q1), basic exploratory analysis (Q2), data update analysis (Q3) |
+| 2.4–2.5 Analysis | `B_analysis.ipynb` | Career length and collaborations (Q4), additional insights (Q5) |
+| 3.1 Web scraping | `C_scraping.ipynb` | Birthplace or origin of each artist and its coordinates, scraped from Wikipedia starting from the Main Page |
+| 3.2 Interactive maps | `D_maps.ipynb` | World map with one marker per artist (sized by total streams) and density map of streams by birthplace |
+| 4. Data Science in Action | `E_datascience.ipynb` | [short description of the 4.3 idea] |
+| Final notebook | `Group05_PDS_2627.ipynb` | All parts merged, run from start to finish |
 
 ## Data flow
 
@@ -72,7 +72,7 @@ Columns added by the web scraping:
    pip install pandas numpy matplotlib seaborn plotly requests beautifulsoup4 selenium
    ```
 
-3. Open `GroupXX_PDS_2627.ipynb` and run all cells from top to bottom (**Restart & Run All**). All CSV files must be in the same folder as the notebook.
+3. Open `GroupXX_PDS_2627.ipynb` and run all cells from top to bottom (Restart & Run All). All CSV files must be in the same folder as the notebook.
 
 Notes:
 - The web scraping section needs an internet connection. Because `scrape_progress.csv` is included, it does not scrape Wikipedia again: it only reads the saved results. Without that file, scraping all 500 artists takes about one hour.
@@ -113,4 +113,4 @@ The notebook also prints the version of every package it uses.
 
 ## Workflow
 
-Each part was developed on its own branch and merged into `main` through a pull request, reviewed by another group member, so `main` always contains working versions.
+Each part was developed on its own branch and merged into `main` through a pull request, so `main` always contains working versions.
